@@ -1,2 +1,2 @@
-# YT-GraphQL-Django-Get-Started
+# GraphQL-Django-Get-Started
  
